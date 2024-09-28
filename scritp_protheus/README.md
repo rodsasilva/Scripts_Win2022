@@ -1,5 +1,5 @@
 # Atualização do Protheus
-Segue diagrama do passo a passo
+Segue diagrama passo a passo da parada dos serviços do protheus.
 
 ```mermaid
 sequenceDiagram
